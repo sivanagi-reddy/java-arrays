@@ -5,7 +5,7 @@ public class Input {
 
          public static void main(String[] args) {
              Scanner sc=new Scanner(System.in);
-             //array of primitives
+                 //array of primitives
              int [] arr= new int[5];
              arr[0]=23;
              arr[1]=45;
