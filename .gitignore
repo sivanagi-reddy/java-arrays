@@ -5,3 +5,9 @@ out/
 
 # Compiled files
 *.class
+
+.classpath
+.project
+.idea/
+bin/
+*.class
